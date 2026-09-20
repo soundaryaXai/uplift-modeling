@@ -1,0 +1,6 @@
+data/
+*.csv
+*.csv.gz
+*.pkl
+results_test.json
+__pycache__/
