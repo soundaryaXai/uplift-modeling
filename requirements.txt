@@ -1,0 +1,6 @@
+scikit-uplift
+plotly
+scikit-learn
+pandas
+numpy
+scipy
